@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using DependencyInversion;
+﻿using DependencyInversion;
 
 var user = new User
 {

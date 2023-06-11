@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using InterfaceSegregation;
+﻿using InterfaceSegregation;
 
 var hpPrinter = new HpPrinter() as IScanner;
 var scanContent = hpPrinter.Scan();

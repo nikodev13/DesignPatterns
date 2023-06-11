@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using SingleResponsibility;
+﻿using SingleResponsibility;
 
 var invoice = new Invoice("A Sp. z o.o.", "B Sp. z o.o.", new LineItem[]
 {

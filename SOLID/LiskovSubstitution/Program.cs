@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using LiskovSubstitution;
+﻿using LiskovSubstitution;
 
 var cityDuck = new CityDuck();
 var rubberDuck = new RubberDuck();
